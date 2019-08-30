@@ -1,6 +1,7 @@
-package com.ComputerBuild;
+package com.builder;
 
 /**
+ * 具体建造者
  * @author yuan
  */
 public class DellComputerBuilder implements ComputerBuilder {

@@ -1,6 +1,7 @@
-package com.ComputerBuild;
+package com.builder;
 
 /**
+ * 产品
  * @author yuan
  */
 public class Computer {

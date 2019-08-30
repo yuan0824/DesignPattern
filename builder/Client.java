@@ -1,12 +1,11 @@
-package com.ComputerBuild;
+package com.builder;
 
 /**
  * @author yuan
  */
-public class Builder {
+public class Client {
     public static void main(String[] args) {
-        ComputerBuilder dellComputerBuilder = new DellComputerBuilder();
-        Director director = new Director(dellComputerBuilder);
+        Director director = new Director(new DellComputerBuilder());
         director.makeComputer();
         Computer computer = director.getComputer();
         System.out.println(computer);

@@ -1,11 +1,12 @@
-package com.ComputerBuild;
+package com.builder;
 
 /**
+ * 抽象建造者
  * @author yuan
  */
 public interface ComputerBuilder {
-    public void buildCPU();
-    public void buildMemory();
-    public void buildSize();
-    public Computer getComputer();
+    void buildCPU();
+    void buildMemory();
+    void buildSize();
+    Computer getComputer();
 }

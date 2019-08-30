@@ -1,6 +1,7 @@
-package com.ComputerBuild;
+package com.builder;
 
 /**
+ * 指挥者
  * @author yuan
  */
 public class Director {
