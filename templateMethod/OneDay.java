@@ -1,8 +1,7 @@
-package com.Template;
-
-import sun.awt.geom.AreaOp;
+package com.templateMethod;
 
 /**
+ * 抽象类
  * @author yuan
  */
 public abstract class OneDay {
