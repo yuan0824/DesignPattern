@@ -1,4 +1,4 @@
-package com.builder;
+package com.demo.builder;
 
 /**
  * 具体建造者

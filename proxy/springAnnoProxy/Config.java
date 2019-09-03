@@ -1,4 +1,4 @@
-package com.springAnnoProxy;
+package com.demo.proxy.springAnnoProxy;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -11,7 +11,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @Configuration
 @EnableAspectJAutoProxy
-@ComponentScan("com.springAnnoProxy")
+@ComponentScan("com.demo.proxy.springAnnoProxy")
 public class Config {
     @Bean
     public Internet internet() {

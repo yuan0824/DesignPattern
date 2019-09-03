@@ -1,6 +1,5 @@
-package com.cglibProxy;
+package com.demo.proxy.cglibProxy;
 
-import net.sf.cglib.proxy.Enhancer;
 
 /**
  * @author yuan

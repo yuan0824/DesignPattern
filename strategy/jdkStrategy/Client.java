@@ -1,4 +1,4 @@
-package com.jdkStrategy;
+package com.demo.strategy.jdkStrategy;
 
 /**
  * @author yuan

@@ -1,4 +1,4 @@
-package com.ifElse.old;
+package com.demo.strategy.ifElse.old;
 
 /**
  * @author yuan

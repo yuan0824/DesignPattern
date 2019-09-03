@@ -1,4 +1,4 @@
-package com.templateMethod;
+package com.demo.templateMethod;
 
 /**
  * 实现类
@@ -6,7 +6,7 @@ package com.templateMethod;
  */
 public class WorkerOneDay extends OneDay {
     @Override
-    public void doSomething() {
+    void doSomething() {
         System.out.println("工作");
     }
 }

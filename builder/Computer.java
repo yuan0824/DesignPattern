@@ -1,4 +1,4 @@
-package com.builder;
+package com.demo.builder;
 
 /**
  * 产品
@@ -9,15 +9,15 @@ public class Computer {
     private String memory;
     private float size;
 
-    public void setCPU(String CPU) {
+    void setCPU(String CPU) {
         this.CPU = CPU;
     }
 
-    public void setMemory(String memory) {
+    void setMemory(String memory) {
         this.memory = memory;
     }
 
-    public void setSize(float size) {
+    void setSize(float size) {
         this.size = size;
     }
 

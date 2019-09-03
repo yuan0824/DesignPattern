@@ -1,9 +1,5 @@
-package com.jdkObserver;
+package com.demo.observer.jdkObserver;
 
-import com.observer.Observer;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Observable;
 
 /**

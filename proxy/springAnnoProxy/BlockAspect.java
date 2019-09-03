@@ -1,4 +1,4 @@
-package com.springAnnoProxy;
+package com.demo.proxy.springAnnoProxy;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.Aspect;
@@ -24,7 +24,7 @@ public class BlockAspect {
         bannedSites.add("youtube.com");
     }
 
-    @Pointcut("execution(* com.springAnnoProxy.Internet.*(..))")
+    @Pointcut("execution(* com.demo.proxy.springAnnoProxy.Internet.*(..))")
     public void block(){}
 
     @Before("block()")

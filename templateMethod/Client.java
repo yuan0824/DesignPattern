@@ -1,4 +1,4 @@
-package com.templateMethod;
+package com.demo.templateMethod;
 
 /**
  * @author yuan

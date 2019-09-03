@@ -1,7 +1,7 @@
-package com.springProxy;
+package com.demo.proxy.springProxy;
 
-import com.springAnnoProxy.Internet;
-import com.springAnnoProxy.RealInternet;
+import com.demo.proxy.springAnnoProxy.Internet;
+import com.demo.proxy.springAnnoProxy.RealInternet;
 import org.springframework.aop.framework.ProxyFactory;
 
 /**

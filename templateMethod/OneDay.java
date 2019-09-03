@@ -1,23 +1,23 @@
-package com.templateMethod;
+package com.demo.templateMethod;
 
 /**
  * 抽象类
  * @author yuan
  */
 public abstract class OneDay {
-    public final void execute(){
+    final void execute(){
         weakUp();
         doSomething();
         sleep();
     }
 
-    public void weakUp(){
+    private void weakUp(){
         System.out.println("睡醒");
     }
 
-    public abstract void doSomething();
+    abstract void doSomething();
 
-    public void sleep(){
+    private void sleep(){
         System.out.println("睡觉");
     }
 }

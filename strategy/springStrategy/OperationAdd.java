@@ -1,4 +1,4 @@
-package com.springStrategy;
+package com.demo.strategy.springStrategy;
 
 /**
  * @author yuan

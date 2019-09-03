@@ -1,8 +1,8 @@
-package com.jdkStrategy;
+package com.demo.strategy.jdkStrategy;
 
 /**
  * @author yuan
  */
 public interface Strategy {
-    public int doOperation(int num1, int num2);
+    int doOperation(int num1, int num2);
 }

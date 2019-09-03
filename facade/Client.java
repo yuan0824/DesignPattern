@@ -1,4 +1,4 @@
-package com.facade;
+package com.demo.facade;
 
 /**
  * @author yuan

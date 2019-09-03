@@ -1,4 +1,4 @@
-package com.observer;
+package com.demo.observer.observer;
 
 /**
  * @author yuan

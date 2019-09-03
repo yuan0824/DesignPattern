@@ -1,4 +1,4 @@
-package com.proxy;
+package com.demo.proxy.proxy;
 
 import java.util.ArrayList;
 import java.util.List;

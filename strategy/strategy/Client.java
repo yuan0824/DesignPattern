@@ -1,4 +1,4 @@
-package com.strategy;
+package com.demo.strategy.strategy;
 
 /**
  * @author yuan

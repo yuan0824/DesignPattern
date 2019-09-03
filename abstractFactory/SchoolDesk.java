@@ -1,5 +1,4 @@
-package com.abstractFactory;
-
+package com.demo.abstractFactory;
 /**
  * @author yuan
  */

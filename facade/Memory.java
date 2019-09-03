@@ -1,10 +1,10 @@
-package com.facade;
+package com.demo.facade;
 
 /**
  * @author yuan
  */
 class Memory {
-    public void load() {
+    void load() {
         System.out.println("复杂的内存载入");
     }
 }

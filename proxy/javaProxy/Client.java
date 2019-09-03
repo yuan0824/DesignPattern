@@ -1,4 +1,4 @@
-package com.javaProxy;
+package com.demo.proxy.javaProxy;
 
 /**
  * @author yuan

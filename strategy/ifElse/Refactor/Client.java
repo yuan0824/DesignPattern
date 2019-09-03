@@ -1,4 +1,4 @@
-package com.ifElse.Refactor;
+package com.demo.strategy.ifElse.Refactor;
 
 /**
  * @author yuan

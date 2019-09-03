@@ -1,12 +1,10 @@
-package com.cglibProxy;
+package com.demo.proxy.cglibProxy;
 
-import com.javaProxy.Handler;
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.Method;
-import java.lang.reflect.Proxy;
 import java.util.ArrayList;
 import java.util.List;
 

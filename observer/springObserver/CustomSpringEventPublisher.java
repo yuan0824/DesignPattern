@@ -1,4 +1,4 @@
-package com.springObserver;
+package com.demo.observer.springObserver;
 
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.ApplicationEventPublisherAware;

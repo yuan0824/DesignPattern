@@ -1,4 +1,4 @@
-package com.proxy;
+package com.demo.proxy.proxy;
 
 /**
  * @author yuan

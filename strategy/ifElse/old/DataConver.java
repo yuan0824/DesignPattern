@@ -1,10 +1,10 @@
-package com.ifElse.old;
+package com.demo.strategy.ifElse.old;
 
 /**
  * @author yuan
  */
 public class DataConver {
-    public String execute(String policy){
+    String execute(String policy){
         if("i".equals(policy)){
             return "身份证";
         }

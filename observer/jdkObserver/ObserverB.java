@@ -1,4 +1,4 @@
-package com.jdkObserver;
+package com.demo.observer.jdkObserver;
 
 import java.util.Observable;
 import java.util.Observer;

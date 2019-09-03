@@ -1,4 +1,4 @@
-package com.cglibProxy;
+package com.demo.proxy.cglibProxy;
 
 /**
  * @author yuan

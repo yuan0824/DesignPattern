@@ -1,4 +1,4 @@
-package com.builder;
+package com.demo.builder;
 
 /**
  * 抽象建造者

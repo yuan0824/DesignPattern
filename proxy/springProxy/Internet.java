@@ -1,4 +1,4 @@
-package com.springProxy;
+package com.demo.proxy.springProxy;
 
 /**
  * @author yuan

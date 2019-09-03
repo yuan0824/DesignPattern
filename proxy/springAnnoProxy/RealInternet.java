@@ -1,4 +1,4 @@
-package com.springAnnoProxy;
+package com.demo.proxy.springAnnoProxy;
 
 /**
  * @author yuan

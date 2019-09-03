@@ -1,4 +1,4 @@
-package com.ifElse.Refactor;
+package com.demo.strategy.ifElse.Refactor;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,7 +15,7 @@ public class StrategyFactory {
         strategyMap.put("c", new CardStrategy());
         strategyMap.put("m", new MobileStrategy());
     }
-    public Optional<Strategy> creator(String type){
+    Optional<Strategy> creator(String type){
         return Optional.ofNullable(strategyMap.get(type));
     }
 }

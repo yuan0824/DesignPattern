@@ -1,4 +1,4 @@
-package com.springStrategy;
+package com.demo.strategy.springStrategy;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -14,12 +14,12 @@ public class Context {
     private int num1;
     private int num2;
 
-    public void setNum(int num1 ,int num2) {
+    void setNum(int num1 ,int num2) {
         this.num1 = num1;
         this.num2 = num2;
     }
 
-    public int executeStrategy() {
+    int executeStrategy() {
         return strategy.doOperation(num1, num2);
     }
 }

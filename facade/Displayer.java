@@ -1,10 +1,10 @@
-package com.facade;
+package com.demo.facade;
 
 /**
  * @author yuan
  */
 class Displayer {
-    public void display() {
+    void display() {
         System.out.println("复杂的显示器启动处理");
     }
 }

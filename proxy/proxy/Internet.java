@@ -1,8 +1,8 @@
-package com.proxy;
+package com.demo.proxy.proxy;
 
 /**
  * @author yuan
  */
 public interface Internet {
-    public void connect(String domain) throws Exception;
+    void connect(String domain) throws Exception;
 }

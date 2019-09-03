@@ -1,4 +1,4 @@
-package com.builder;
+package com.demo.builder;
 
 /**
  * 指挥者
@@ -6,15 +6,15 @@ package com.builder;
  */
 public class Director {
     private ComputerBuilder computerBuilder;
-    public Director(ComputerBuilder computerBuilder){
+    Director(ComputerBuilder computerBuilder){
         this.computerBuilder = computerBuilder;
     }
-    public void makeComputer(){
+    void makeComputer(){
         this.computerBuilder.buildCPU();
         this.computerBuilder.buildMemory();
         this.computerBuilder.buildSize();
     }
-    public Computer getComputer(){
+    Computer getComputer(){
         return this.computerBuilder.getComputer();
     }
 }

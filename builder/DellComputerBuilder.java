@@ -1,4 +1,4 @@
-package com.builder;
+package com.demo.builder;
 
 /**
  * 具体建造者
@@ -6,7 +6,7 @@ package com.builder;
  */
 public class DellComputerBuilder implements ComputerBuilder {
     private Computer computer;
-    public DellComputerBuilder(){
+    DellComputerBuilder(){
         this.computer = new Computer();
     }
     @Override

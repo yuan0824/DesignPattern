@@ -1,4 +1,4 @@
-package com.springStrategy;
+package com.demo.strategy.springStrategy;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
