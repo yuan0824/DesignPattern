@@ -6,8 +6,8 @@
 * [工厂方法模式（Factory Method）](https://github.com/yuan0824/DesignPattern/tree/master/factoryMethod)
 * [抽象工厂模式（Abstract Factory）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
 * [创建者模式（Builder）](https://github.com/yuan0824/DesignPattern/tree/master/builder)
-* [原型模式（Prototype）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
-* [单例模式（Singleton）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
+* [原型模式（Prototype）](https://github.com/yuan0824/DesignPattern/tree/master/prototype)
+* [单例模式（Singleton）](https://github.com/yuan0824/DesignPattern/tree/master/singleton)
 
 ## 结构型模式
 
