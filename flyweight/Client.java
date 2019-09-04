@@ -12,6 +12,5 @@ public class Client {
         factory.getBookOrder("水浒").print();
         factory.getBookOrder("水浒").print();
         factory.getBookOrder("三国").print();
-
     }
 }
