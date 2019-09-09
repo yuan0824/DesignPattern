@@ -11,13 +11,13 @@
 
 ## 结构型模式
 
-* [外观模式（Facade）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
-* [适配器模式（Adapter）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
-* [代理模式（Proxy）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
-* [组合模式（Composite）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
-* [享元模式（Flyweight）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
-* [装饰模式（Decorator）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
-* [桥模式（Bridge）](https://github.com/yuan0824/DesignPattern/tree/master/abstractFactory)
+* [外观模式（Facade）](https://github.com/yuan0824/DesignPattern/tree/master/facade)
+* [适配器模式（Adapter）](https://github.com/yuan0824/DesignPattern/tree/master/adapter)
+* [代理模式（Proxy）](https://github.com/yuan0824/DesignPattern/tree/master/proxy)
+* [组合模式（Composite）](https://github.com/yuan0824/DesignPattern/tree/master/composite)
+* [享元模式（Flyweight）](https://github.com/yuan0824/DesignPattern/tree/master/flyweight)
+* [装饰者模式（Decorator）](https://github.com/yuan0824/DesignPattern/tree/master/decorator)
+* [桥模式（Bridge）](https://github.com/yuan0824/DesignPattern/tree/master/bridge)
 
 ## 行为型模式
 
