@@ -1,4 +1,4 @@
-package com.demo.strategy.ifElse.Refactor;
+package com.demo.strategy.ifElse.refactor;
 
 import java.util.HashMap;
 import java.util.Map;

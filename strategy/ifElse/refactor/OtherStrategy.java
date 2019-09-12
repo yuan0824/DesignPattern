@@ -3,9 +3,9 @@ package com.demo.strategy.ifElse.Refactor;
 /**
  * @author yuan
  */
-public class CardStrategy implements Strategy{
+public class OtherStrategy implements Strategy {
     @Override
     public String doOperation(String policy) {
-        return "银行卡";
+        return "其他";
     }
 }
