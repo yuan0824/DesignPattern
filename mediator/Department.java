@@ -10,5 +10,4 @@ public abstract class Department {
     {
         this.mediator = mediator;
     }
-
 }
